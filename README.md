@@ -1,0 +1,1 @@
+Idea was a random quote machine when you clicked the button you got a random quote from an api
